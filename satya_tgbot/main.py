@@ -11,8 +11,8 @@ import nltk
 nltk.download('punkt')
 
 # Hard-coded tokens (for testing only; remove hard-coding for production)
-TELEGRAM_TOKEN = "7727998827:AAFqnO8roxjJme2WWTEsObqpEfdVEVtzrB4"
-OPENROUTER_API_KEY = "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"
+TELEGRAM_TOKEN = ""
+OPENROUTER_API_KEY = ""
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
